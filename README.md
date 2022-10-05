@@ -6,7 +6,7 @@ The repository for COLING-22 oral paper "[Multi-modal Contrastive Representation
 
 #### bilingual datasets
 
-The multi-modal version of DBP15K dataset comes from the [EVA](https://github.com/cambridgeltl/eva) repository, and image features folder `pkls` of DBP15K should be downloaded according to the guidance of EVA repository, and the downloaded folder `pkls` is placed in the `data` directory of this repository.
+The multi-modal version of DBP15K dataset comes from the [EVA](https://github.com/cambridgeltl/eva) repository, and the folder `pkls` of DBP15K image features should be downloaded according to the guidance of EVA repository, and the downloaded folder `pkls` is placed in the `data` directory of this repository.
 
 The word embedding we used is `glove-6B`,  you can download it from [glove](https://nlp.stanford.edu/data/glove.6B.zip),  and unzip it in the `data/embedding` directory.
 
