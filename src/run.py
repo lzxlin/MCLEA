@@ -181,7 +181,7 @@ class MCLEA:
 
         parser.add_argument("--zoom", type=float, default=0.1, help="narrow the range of losses")
         parser.add_argument("--reduction", type=str, default="mean", help="[sum|mean]")
-        parser.add_argument("--save_path", type=str, default="save_pkl/test", help="save path")
+        parser.add_argument("--save_path", type=str, default="save_pkl", help="save path")
 
         return parser.parse_args()
 
