@@ -1,6 +1,6 @@
 # MCLEA
 
-The code and dataset of paper _**Multi-modal Contrastive Representation Learning for Entity Alignment**_ [[arxiv](https://arxiv.org/abs/2209.00891)] [[acl]()] in Proceedings of COLING 2022 (oral).
+The code and dataset of paper _**Multi-modal Contrastive Representation Learning for Entity Alignment**_ [[arxiv](https://arxiv.org/abs/2209.00891)] [[acl](https://aclanthology.org/2022.coling-1.227.pdf)] in Proceedings of COLING 2022 (oral).
 
 ## Dataset
 
@@ -45,7 +45,9 @@ If you use this model or code, please cite it as follows:
   title = {Multi-modal Contrastive Representation Learning for Entity Alignment},
   author = {Lin, Zhenxi and Zhang, Ziheng and Wang, Meng and Shi, Yinghui and Wu, Xian and Zheng, Yefeng}, 
   booktitle = {Proceedings of the 29th International Conference on Computational Linguistics},
+  url = {https://aclanthology.org/2022.coling-1.227},
   year = {2022},
+  pages = {2572--2584},
 }
 ```
 
